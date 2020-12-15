@@ -1,5 +1,6 @@
 # CoronaRealtimeStatusIndia
 - This is a corona tracker project which will inform about the **Current active cases**, **Total discharged cases** and **Total deaths** in India.
+- Data has been taken from https://www.mohfw.gov.in/ which is the offiial website of Ministery of health and family wellfare.
 - This UI application will provide windows notifications about the Covid-19 cases.
 - We can also open up the UI and check when ever we want. Refresh button to send request again is also provided.
 - This application contains a very basic UI and can be updated as required.
